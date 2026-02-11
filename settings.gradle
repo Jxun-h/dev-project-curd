@@ -1,0 +1,3 @@
+rootProject.name = 'dev-project'
+include 'core-module'
+include 'api-module'
